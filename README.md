@@ -1,5 +1,5 @@
 # fizz_buzz
-Repository for Hacktoberfest 
+Beginner friendly Repository for Hacktoberfest, for contributors looking for making their first pull requests. 
 
 # Guidelines
 Contribute Unique solutions to the fizzbuzz problem.
